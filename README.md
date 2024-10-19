@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zverevaa
 - 👀 I’m interested in web development, app development and game development
-- 🌱 I’m currently learning basics of programming at GeekBrains, and working on JavaScript things on the side
-- 💞️ I’m looking to collaborate on some basic fun little projects that would improve my skills, and eventually get a job in the field as a developer
+- 🌱 I’m currently looking for a job as an intern/junior frontend developer. 
+- 💞️ My expertise: HTML, CSS, JS, TS, React, and a little bit of Next.js. And I've made a couple things in Vue.
 - 📫 You can reach me at iibearu@gmail.com
 
 
